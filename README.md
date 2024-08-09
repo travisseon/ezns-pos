@@ -1,1 +1,1 @@
-r.jdbc.SQLServerDriver</driver>
+간다간다
